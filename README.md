@@ -32,7 +32,7 @@ A clean, modular backtesting framework for testing cryptocurrency trading strate
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/backtesting-framework.git
+git clone https://github.com/itaiwins/backtesting-framework.git
 cd backtesting-framework
 
 # Create virtual environment (recommended)
